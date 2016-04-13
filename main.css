@@ -1,19 +1,36 @@
-body {
-  background-image: url("/Volumes/mvisual/public/S16-Art229-Conrad/Sara Cantler/Project-3/Images/LIVING ROOM.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+h2 {
+  color: #FFFFFF;
+  font-family: verdana;
+  backgrond-color: white;
 }
 
-.bg {
-  width: 100%;
-  z-index: 0;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  min-height: 100px;
-  min-width: 500px;
-  max-height: 200px;
-  background-attachment: fixed;
+h3 {
+  color: #FFFFFF;
+  font-family: verdana;
+}
 
+#first {
+    text-align: left;
+    font-family: arial black;
+    color: #1f2532;
+  background-color: white;
+}
+
+#second {
+    text-align: left;
+    font-family: arial black;
+    color: #1f2532;
+  background-color: white;
+}
+
+#third {
+  text-align: left;
+  color: #1f2532;
+  font-family: arial black;
+  background-color: white;
+}
+
+body {
+  background-image: url("http://i.imgur.com/gfer8K7.jpg");
+  background-size: 100%;
 }
